@@ -38,7 +38,7 @@ The dataset used in this project contains structured business-related data for a
 * Regional performance data
 * Time-based transactional data
 
-> Note: Replace this section with your actual dataset description and source.
+
 
 ---
 
